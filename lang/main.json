@@ -720,7 +720,7 @@
     "toolbar": {
         "accessibilityLabel": {
             "audioOnly": "Toggle audio only",
-            "audioRoute": "Select the sound device",
+            "audioRoute": "Select the sound test 123",
             "callQuality": "Manage video quality",
             "cc": "Toggle subtitles",
             "chat": "Toggle chat window",
@@ -771,7 +771,7 @@
         "audioSettings": "Audio settings",
         "audioOnlyOff": "Disable low bandwidth mode",
         "audioOnlyOn": "Enable low bandwidth mode",
-        "audioRoute": "Select the sound device",
+        "audioRoute": "Select the sound test 123",
         "authenticate": "Authenticate",
         "callQuality": "Manage video quality",
         "chat": "Open / Close chat",
